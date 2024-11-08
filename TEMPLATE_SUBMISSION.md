@@ -12,7 +12,7 @@ Enthuse : A Fake_QR_Code_Detection Software
 ## Project Description    
 
 
-We developed a deeplearning model that can effectively distinguish betweenlegitimate QR codes and thoseembedded with malicious content, such as viruses orphishing links. We trained a deep
+We developed a deeplearning model that can effectively distinguish between legitimate QR codes and those embedded with malicious content, such as viruses or phishing links. We trained a deep
 learning model to distinguish between real QR codes and fake QR code.
 
 ## Inspiration behind the Project  
